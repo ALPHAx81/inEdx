@@ -1,2 +1,2 @@
 # inEdx
-hey there, rachit this side, hope you are fine and doing good.
+hey there, BACKGROUND CHANGER USING JAVASCRIPT IS FINALLY UP, COMPLETED IT USING <>, css and JS.
